@@ -1,0 +1,9 @@
+- create a folder data in the current directory
+
+- Next download dataset(IR camera footage ) from drive link (video folder)
+https://drive.google.com/drive/folders/132Zybl3wneApp-KzNCiRgeLE2hSUWCEC?usp=sharing
+and place it inside data directory 
+
+
+
+
