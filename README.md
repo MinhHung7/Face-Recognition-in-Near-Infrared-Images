@@ -19,5 +19,8 @@ git clone https://github.com/MinhHung7/Face-Recognition-in-Near-Infrared-Images
 Then download the dataset from here: [TD_NIR_A_Set](https://drive.google.com/file/d/1rhibpEo5T-HecraUNpsAqDpUD4MNBZPl/view?usp=drive_link)
 
 Ok, now you just need to run recognition.ipynb in recognition folder
+## 👉 The results
+| ![](https://github.com/MinhHung7/Face-Recognition-in-Near-Infrared-Images/blob/main/images/482939214_635426786089935_5105957930290264660_n.jpg) | ![](https://github.com/MinhHung7/Face-Recognition-in-Near-Infrared-Images/blob/main/images/484236646_1663395660923838_6617478069867370009_n.jpg) |
+|-----------------|-----------------|
 ## 👉 For contact and question
 If you have any questions or feedback, please submit them through the 'Issues' section on GitHub so we can assist you in the best way possible
